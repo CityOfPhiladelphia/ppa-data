@@ -20,7 +20,7 @@ Data is a raw dump from the PPA inventory system.
 * POM-E | P&D
 * SH | P&D
 
-Distinguishing Meters from Kiosks: manufacturer / model for kiosks - Parkeon Strata, and Metric Aura.
+Distinguishing Meters from Kiosks: manufacturer / model for kiosks - Parkeon Strada, and Metric Aura.
 
 ## Status Codes (only "in service" meters are active)
 
