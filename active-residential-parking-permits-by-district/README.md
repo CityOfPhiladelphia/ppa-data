@@ -37,6 +37,6 @@ Fields
 |Alias|Sensitive|Description|Type|
 |:----|:-------------------|:------------|:------------|
 District |	No | District number |Number |
-Total Permits |	No | Count of active permits for the district |	Text |
+Total Permits |	No | Count of active permits for the district |	Number|
 
 
