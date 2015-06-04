@@ -38,7 +38,7 @@ Fields
 |District Number|No | District number |Number |
 |Street|	No | Street Name |	Text |
 |Block|	No | Hundred block number |	Number |
-|Side|	No | Side of street direction |	Text |
+|Side|	No | Side of street (Cardinal direction) |	Text |
 
 Data Dictionary
 --------------------------
