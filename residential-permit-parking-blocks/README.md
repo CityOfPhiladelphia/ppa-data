@@ -26,7 +26,7 @@ Details
 | Data Hygiene | 5 - Very High |
 | Data Accuracy | 5 - Very High |
 | Demand | 5 |
-| Complexity | 3 |
+| Complexity | 2 |
 
 
 
