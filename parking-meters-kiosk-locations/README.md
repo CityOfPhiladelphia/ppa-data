@@ -32,6 +32,4 @@ Distinguishing Meters from Kiosks: manufacturer / model for kiosks - Parkeon Str
 
 ## Parking Amnesty Areas
 
-* Wednesdays are free after 5pm in Center City (Spring Garden-Bainbridge and Delaware to Schuylkill)
-* Fridays are the first Friday of the month after 5pm in Olde City (Front to 5th and Walnut to Callowhill)
 * Saturdays are free after 11am between Thanksgiving day and New years day. (Entire City)
